@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Backend runtime artifacts
+backend/laptopcare.db
+backend/app/ml/model.joblib
+backend/app/ml/metrics.json
+backend/.pytest_cache/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Env files
+.env
+*.env.local
+
+# OS
+.DS_Store
+Thumbs.db

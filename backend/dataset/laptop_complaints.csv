@@ -1,0 +1,601 @@
+text,label
+Fan laptop sangat berisik lalu laptop tiba tiba mati sendiri,overheating
+Bagian belakang laptop panas berlebihan dan tiba tiba blank lalu mati,overheating
+Membuka file besar membuat laptop jadi sangat lambat,slow_performance
+SSD laptop tidak terdeteksi di file explorer,storage_problem
+Hardisk laptop berbunyi klik klik lalu sangat lambat,storage_problem
+Laptop hidup tapi layar tidak menampilkan apa apa,black_screen
+Laptop mati mendadak tiba tiba ketika sedang main game karena panas sekali,overheating
+Laptop mati sendiri tiba tiba ketika sedang main game karena panas berlebihan,overheating
+Baterai laptop cepat habis padahal baru saja di cas,battery_not_charging
+Hardisk laptop berbunyi klik klik lalu sangat lambat,storage_problem
+Laptop stuck di layar loading windows berjam jam,boot_problem
+Laptop mati mendadak tiba tiba ketika sedang main game karena panas berlebihan,overheating
+Baterai laptop tidak mau mengisi walaupun sudah dicolok charger,battery_not_charging
+Task manager menunjukkan CPU selalu penuh seratus persen,slow_performance
+Laptop hidup tapi layar tidak menampilkan apa apa,black_screen
+Task manager menunjukkan CPU selalu penuh seratus persen,slow_performance
+Layar kadang gelap kadang terang sendiri secara tiba tiba,display_flickering
+File di laptop sering corrupt atau tidak bisa dibuka,storage_problem
+Baterai laptop bocor cepat habis dalam waktu singkat,battery_not_charging
+Charger laptop panas dan baterai tidak kunjung penuh,battery_not_charging
+Hardisk laptop mengeluarkan bunyi aneh dan akses file lambat,storage_problem
+Booting laptop lama sekali sampai lima menit lebih,slow_performance
+Booting laptop lama sekali sampai lima menit lebih,slow_performance
+Hardisk laptop mengeluarkan bunyi aneh dan akses file lambat,storage_problem
+Driver bluetooth error terus setiap kali dinyalakan,bluetooth_problem
+Layar eksternal normal tapi layar laptop tetap hitam,black_screen
+Layar laptop berkedip kedip terus menerus,display_flickering
+"Icon wifi hilang dari taskbar, tidak bisa connect internet",wifi_problem
+Performa laptop menurun drastis dari biasanya,slow_performance
+Beberapa huruf di keyboard hilang atau kotor sehingga tidak terbaca,keyboard_problem
+Muncul flicker warna pelangi di sudut layar laptop,display_flickering
+Laptop tidak bisa booting masuk windows sama sekali,boot_problem
+Laptop tidak bisa booting masuk windows sama sekali,boot_problem
+Penyimpanan laptop penuh padahal file tidak terlalu banyak,storage_problem
+Laptop saya sangat lambat ketika membuka aplikasi,slow_performance
+Headset bluetooth tidak terdeteksi oleh laptop,bluetooth_problem
+Windows stuck di logo saat booting terus menerus,boot_problem
+SSD laptop tidak terdeteksi di file explorer,storage_problem
+Layar laptop mati sendiri padahal laptop masih menyala,black_screen
+Laptop stuck di layar loading windows berjam jam,boot_problem
+Baterai laptop tidak mau mengisi walaupun sudah dicolok charger,battery_not_charging
+Charger terpasang tapi indikator baterai tidak bertambah,battery_not_charging
+"Laptop menyala, kipas jalan, tapi layar gelap total",black_screen
+Layar eksternal normal tapi layar laptop tetap hitam,black_screen
+Laptop mentok di halaman BIOS tidak bisa lanjut boot,boot_problem
+Keyboard laptop tidak merespon sama sekali saat diketik,keyboard_problem
+Layar eksternal normal tapi layar laptop tetap hitam,black_screen
+"Suhu laptop terasa panas berlebihan sekali, sampai bagian keyboard ikut panas",overheating
+Laptop nyala tapi tidak ada tampilan sama sekali di layar,black_screen
+Wifi terhubung tapi internet tidak bisa dipakai sama sekali,wifi_problem
+Wifi laptop saya tidak muncul sama sekali di daftar jaringan,wifi_problem
+Layar berkedip terutama saat baterai dipakai tanpa charger,display_flickering
+File di laptop sering corrupt atau tidak bisa dibuka,storage_problem
+Setiap dinyalakan laptop langsung masuk automatic repair terus,boot_problem
+Booting laptop lama sekali sampai lima menit lebih,slow_performance
+Windows stuck di logo saat booting terus menerus,boot_problem
+Laptop lemot karena disk usage selalu seratus persen,storage_problem
+Charger terpasang tapi indikator baterai tidak bertambah,battery_not_charging
+"Suhu laptop terasa sangat panas sekali, sampai bagian keyboard ikut panas",overheating
+Charger laptop panas dan baterai tidak kunjung penuh,battery_not_charging
+Task manager menunjukkan CPU selalu penuh seratus persen,slow_performance
+Bluetooth aktif tapi tidak mendeteksi perangkat lain,bluetooth_problem
+Booting normal tapi begitu masuk windows layar langsung hitam,black_screen
+Bluetooth aktif tapi tidak mendeteksi perangkat lain,bluetooth_problem
+Tombol spasi pada keyboard laptop tidak bisa ditekan,keyboard_problem
+Layar laptop hitam total padahal lampu power menyala,black_screen
+Baterai laptop tidak mau mengisi walaupun sudah dicolok charger,battery_not_charging
+Laptop menampilkan pesan disk space hampir habis terus,storage_problem
+Laptop hanya bisa menyala kalau charger terus tercolok,battery_not_charging
+Kalau dipakai lama laptop jadi panas sekali dan performa turun drastis,overheating
+Driver wifi tidak terbaca di device manager,wifi_problem
+Keyboard sering double input padahal hanya ditekan sekali,keyboard_problem
+Laptop stuck di layar loading windows berjam jam,boot_problem
+Bagian belakang laptop panas berlebihan dan tiba tiba blank lalu mati,overheating
+Laptop lemot karena disk usage selalu seratus persen,storage_problem
+Laptop gagal terus saat pairing dengan speaker bluetooth,bluetooth_problem
+Warna layar berubah ubah dan berkedip secara acak,display_flickering
+Layar laptop hitam total padahal lampu power menyala,black_screen
+Kapasitas penyimpanan laptop cepat penuh tanpa sebab jelas,storage_problem
+Beberapa huruf di keyboard hilang atau kotor sehingga tidak terbaca,keyboard_problem
+Booting normal tapi begitu masuk windows layar langsung hitam,black_screen
+Laptop tidak bisa pairing dengan mouse bluetooth,bluetooth_problem
+Laptop sering muncul pesan disk error saat startup,storage_problem
+Persentase baterai turun terus meskipun sedang di charge,battery_not_charging
+Layar tiba tiba blank hitam saat sedang dipakai,black_screen
+Laptop tidak bisa pairing dengan mouse bluetooth,bluetooth_problem
+Muncul garis horizontal yang berkedip di layar laptop,display_flickering
+Wifi adapter tidak terdeteksi setelah update windows,wifi_problem
+Wifi adapter tidak terdeteksi setelah update windows,wifi_problem
+Keyboard laptop error setelah tidak sengaja terkena air,keyboard_problem
+File di laptop sering corrupt atau tidak bisa dibuka,storage_problem
+Booting laptop lama sekali sampai lima menit lebih,slow_performance
+Laptop saya sangat lambat ketika membuka aplikasi,slow_performance
+Laptop tidak bisa booting masuk windows sama sekali,boot_problem
+Laptop nge lag parah saat streaming atau menonton video,slow_performance
+"Laptop menyala, kipas jalan, tapi layar gelap total",black_screen
+Persentase baterai turun terus meskipun sedang di charge,battery_not_charging
+Hardisk laptop mengeluarkan bunyi aneh dan akses file lambat,storage_problem
+Tombol spasi pada keyboard laptop tidak bisa ditekan,keyboard_problem
+Muncul flicker warna pelangi di sudut layar laptop,display_flickering
+Laptop nyala tapi tidak ada tampilan sama sekali di layar,black_screen
+Laptop terasa sangat panas terutama di bagian bawah dan kipas berputar sangat kencang,overheating
+Hardisk laptop berbunyi klik klik lalu sangat lambat,storage_problem
+Laptop menampilkan pesan disk space hampir habis terus,storage_problem
+Muncul garis horizontal yang berkedip di layar laptop,display_flickering
+Setiap connect wifi selalu muncul limited access,wifi_problem
+Laptop lemot parah padahal cuma buka browser,slow_performance
+Kalau dipakai lama laptop jadi panas berlebihan dan performa turun drastis,overheating
+"Laptop mati sendiri pas lagi render video, badannya sangat hangat sekali sekali",overheating
+Kapasitas penyimpanan laptop cepat penuh tanpa sebab jelas,storage_problem
+Setiap connect wifi selalu muncul limited access,wifi_problem
+Layar laptop hitam total padahal lampu power menyala,black_screen
+Layar berkedip saat brightness dinaikkan atau diturunkan,display_flickering
+"Suhu laptop terasa sangat hangat sekali sekali, sampai bagian keyboard ikut panas",overheating
+Tombol keyboard terasa macet dan susah ditekan,keyboard_problem
+Beberapa huruf di keyboard hilang atau kotor sehingga tidak terbaca,keyboard_problem
+Tombol angka di keyboard laptop tidak berfungsi seluruhnya,keyboard_problem
+Laptop tidak bisa pairing dengan mouse bluetooth,bluetooth_problem
+Keyboard laptop mengetik huruf yang salah terus menerus,keyboard_problem
+Tampilan layar bergaris garis dan flicker saat dipakai,display_flickering
+Fan laptop sangat berisik lalu laptop mati mendadak sendiri,overheating
+Bluetooth aktif tapi tidak mendeteksi perangkat lain,bluetooth_problem
+Layar eksternal normal tapi layar laptop tetap hitam,black_screen
+Tampilan layar bergetar dan tidak stabil terus menerus,display_flickering
+Keyboard sering double input padahal hanya ditekan sekali,keyboard_problem
+Baterai laptop drop drastis dari seratus persen ke nol,battery_not_charging
+Wifi laptop saya tidak muncul sama sekali di daftar jaringan,wifi_problem
+Laptop tidak bisa konek ke wifi padahal sinyal full,wifi_problem
+"Laptop mati sendiri pas lagi render video, badannya sangat panas sekali",overheating
+Muncul pesan operating system not found saat booting,boot_problem
+"Laptop mati sendiri pas lagi render video, badannya panas berlebihan sekali",overheating
+Layar flicker parah ketika membuka aplikasi berat,display_flickering
+"Laptop menyala, kipas jalan, tapi layar gelap total",black_screen
+Laptop sering muncul pesan disk error saat startup,storage_problem
+Tampilan layar bergaris garis dan flicker saat dipakai,display_flickering
+Layar tiba tiba blank hitam saat sedang dipakai,black_screen
+Laptop tidak bisa konek ke wifi padahal sinyal full,wifi_problem
+Baterai laptop drop drastis dari seratus persen ke nol,battery_not_charging
+Tombol spasi pada keyboard laptop tidak bisa ditekan,keyboard_problem
+Bluetooth mouse terputus setiap beberapa menit,bluetooth_problem
+Tampilan layar bergaris garis dan flicker saat dipakai,display_flickering
+Driver wifi tidak terbaca di device manager,wifi_problem
+Baterai laptop bocor cepat habis dalam waktu singkat,battery_not_charging
+Lampu indikator charging menyala tapi baterai tidak terisi,battery_not_charging
+File di laptop sering corrupt atau tidak bisa dibuka,storage_problem
+Laptop restart terus menerus tidak bisa masuk ke desktop,boot_problem
+Layar tiba tiba blank hitam saat sedang dipakai,black_screen
+File di laptop sering corrupt atau tidak bisa dibuka,storage_problem
+Laptop sering hang dan tidak merespon saat digunakan,slow_performance
+"Icon wifi hilang dari taskbar, tidak bisa connect internet",wifi_problem
+Bluetooth aktif tapi tidak mendeteksi perangkat lain,bluetooth_problem
+Keyboard laptop tidak merespon sama sekali saat diketik,keyboard_problem
+Laptop terasa sangat panas terutama di bagian bawah dan kipas berputar sangat kencang,overheating
+Fan laptop sangat berisik lalu laptop tiba tiba mati sendiri,overheating
+Laptop tidak bisa booting masuk windows sama sekali,boot_problem
+Tidak ada opsi bluetooth di pengaturan laptop,bluetooth_problem
+Charger terpasang tapi indikator baterai tidak bertambah,battery_not_charging
+Booting laptop selalu gagal dan otomatis restart sendiri,boot_problem
+Laptop saya sangat lambat ketika membuka aplikasi,slow_performance
+Muncul garis horizontal yang berkedip di layar laptop,display_flickering
+Partisi penyimpanan hilang setelah laptop mati mendadak,storage_problem
+Wifi adapter tidak terdeteksi setelah update windows,wifi_problem
+Tampilan layar bergaris garis dan flicker saat dipakai,display_flickering
+Keyboard laptop error setelah tidak sengaja terkena air,keyboard_problem
+Laptop lag terus saat multitasking beberapa aplikasi,slow_performance
+"Laptop cuma bisa internet pakai kabel LAN, wifi tidak berfungsi",wifi_problem
+Beberapa huruf di keyboard hilang atau kotor sehingga tidak terbaca,keyboard_problem
+Wifi adapter tidak terdeteksi setelah update windows,wifi_problem
+Setelah update windows layar jadi hitam terus,black_screen
+"Laptop saya overheat terus, kipas berputar kencang tapi tetap panas",overheating
+Layar kadang gelap kadang terang sendiri secara tiba tiba,display_flickering
+Keyboard laptop mengetik huruf yang salah terus menerus,keyboard_problem
+Laptop lemot terus walaupun sudah restart berkali kali,slow_performance
+Tombol keyboard terasa macet dan susah ditekan,keyboard_problem
+"Laptop mati sendiri pas lagi render video, badannya panas sekali sekali",overheating
+Laptop restart terus menerus tidak bisa masuk ke desktop,boot_problem
+Windows tidak bisa boot setelah mati listrik tiba tiba,boot_problem
+Laptop gagal terus saat pairing dengan speaker bluetooth,bluetooth_problem
+Laptop mati sendiri tiba tiba ketika sedang main game karena panas sekali,overheating
+Laptop restart terus menerus tidak bisa masuk ke desktop,boot_problem
+Wifi adapter tidak terdeteksi setelah update windows,wifi_problem
+"Suhu laptop terasa panas sekali sekali, sampai bagian keyboard ikut panas",overheating
+Laptop menunjukkan not charging padahal charger terpasang,battery_not_charging
+Laptop hanya menampilkan blue screen setiap kali dinyalakan,boot_problem
+Layar kadang gelap kadang terang sendiri secara tiba tiba,display_flickering
+Booting laptop selalu gagal dan otomatis restart sendiri,boot_problem
+Laptop hanya menampilkan blue screen setiap kali dinyalakan,boot_problem
+Keyboard laptop mengetik huruf yang salah terus menerus,keyboard_problem
+Muncul pesan operating system not found saat booting,boot_problem
+Bluetooth laptop tidak bisa dinyalakan dari settings,bluetooth_problem
+Wifi adapter tidak terdeteksi setelah update windows,wifi_problem
+Layar eksternal normal tapi layar laptop tetap hitam,black_screen
+Booting laptop lama sekali sampai lima menit lebih,slow_performance
+File di laptop sering corrupt atau tidak bisa dibuka,storage_problem
+Driver wifi tidak terbaca di device manager,wifi_problem
+Laptop lemot parah padahal cuma buka browser,slow_performance
+Baterai laptop bocor cepat habis dalam waktu singkat,battery_not_charging
+Laptop lemot parah padahal cuma buka browser,slow_performance
+Laptop lemot parah padahal cuma buka browser,slow_performance
+Driver bluetooth error terus setiap kali dinyalakan,bluetooth_problem
+Partisi penyimpanan hilang setelah laptop mati mendadak,storage_problem
+"Laptop menyala, kipas jalan, tapi layar gelap total",black_screen
+Headset bluetooth tidak terdeteksi oleh laptop,bluetooth_problem
+"Laptop cuma bisa internet pakai kabel LAN, wifi tidak berfungsi",wifi_problem
+Baterai laptop drop drastis dari seratus persen ke nol,battery_not_charging
+Setelah 1 jam laptop langsung restart karena kepanasan,overheating
+Tampilan layar bergaris garis dan flicker saat dipakai,display_flickering
+Setelah update windows layar jadi hitam terus,black_screen
+Hardisk laptop berbunyi klik klik lalu sangat lambat,storage_problem
+Keyboard laptop mengetik huruf yang salah terus menerus,keyboard_problem
+Headset bluetooth tidak terdeteksi oleh laptop,bluetooth_problem
+Laptop saya panas sekali dan mati sendiri setelah dipakai beberapa menit,overheating
+Tombol spasi pada keyboard laptop tidak bisa ditekan,keyboard_problem
+Laptop gagal terus saat pairing dengan speaker bluetooth,bluetooth_problem
+Laptop tidak bisa konek ke wifi padahal sinyal full,wifi_problem
+Layar tiba tiba blank hitam saat sedang dipakai,black_screen
+Keyboard laptop tidak merespon sama sekali saat diketik,keyboard_problem
+Laptop menunjukkan not charging padahal charger terpasang,battery_not_charging
+Booting laptop selalu gagal dan otomatis restart sendiri,boot_problem
+Performa laptop menurun drastis dari biasanya,slow_performance
+"Laptop saya overheat terus, kipas berputar kencang tapi tetap panas",overheating
+Laptop hanya menampilkan blue screen setiap kali dinyalakan,boot_problem
+Bagian belakang laptop panas berlebihan dan tiba tiba blank lalu mati,overheating
+Laptop mentok di halaman BIOS tidak bisa lanjut boot,boot_problem
+Laptop sering muncul pesan disk error saat startup,storage_problem
+Keyboard laptop tidak merespon sama sekali saat diketik,keyboard_problem
+"Laptop cuma bisa internet pakai kabel LAN, wifi tidak berfungsi",wifi_problem
+Beberapa huruf di keyboard hilang atau kotor sehingga tidak terbaca,keyboard_problem
+Wifi terhubung tapi internet tidak bisa dipakai sama sekali,wifi_problem
+Laptop gagal terus saat pairing dengan speaker bluetooth,bluetooth_problem
+Laptop tidak bisa pairing dengan mouse bluetooth,bluetooth_problem
+Setiap connect wifi selalu muncul limited access,wifi_problem
+Performa laptop menurun drastis dari biasanya,slow_performance
+Keyboard laptop error setelah tidak sengaja terkena air,keyboard_problem
+Booting laptop lama sekali sampai lima menit lebih,slow_performance
+Performa laptop menurun drastis dari biasanya,slow_performance
+Hardisk laptop mengeluarkan bunyi aneh dan akses file lambat,storage_problem
+Laptop tidak menemukan jaringan wifi apapun,wifi_problem
+Keyboard sering double input padahal hanya ditekan sekali,keyboard_problem
+Laptop sering muncul pesan disk error saat startup,storage_problem
+Layar laptop berkedip kedip terus menerus,display_flickering
+Layar berkedip terutama saat baterai dipakai tanpa charger,display_flickering
+Laptop hanya bisa menyala kalau charger terus tercolok,battery_not_charging
+Baterai laptop drop drastis dari seratus persen ke nol,battery_not_charging
+Baterai laptop tidak mau mengisi walaupun sudah dicolok charger,battery_not_charging
+Bluetooth mouse terputus setiap beberapa menit,bluetooth_problem
+Driver wifi tidak terbaca di device manager,wifi_problem
+Laptop restart terus menerus tidak bisa masuk ke desktop,boot_problem
+Muncul flicker warna pelangi di sudut layar laptop,display_flickering
+Laptop tidak bisa konek ke wifi padahal sinyal full,wifi_problem
+Layar blank hitam disertai bunyi beep saat dinyalakan,black_screen
+Laptop mentok di halaman BIOS tidak bisa lanjut boot,boot_problem
+Laptop hanya bisa menyala kalau charger terus tercolok,battery_not_charging
+Beberapa huruf di keyboard hilang atau kotor sehingga tidak terbaca,keyboard_problem
+Bluetooth laptop tidak bisa dinyalakan dari settings,bluetooth_problem
+Driver wifi tidak terbaca di device manager,wifi_problem
+Muncul flicker warna pelangi di sudut layar laptop,display_flickering
+Beberapa huruf di keyboard hilang atau kotor sehingga tidak terbaca,keyboard_problem
+Laptop mati sendiri tiba tiba ketika sedang main game karena sangat panas,overheating
+Laptop lemot karena disk usage selalu seratus persen,storage_problem
+Bagian belakang laptop panas berlebihan dan tiba tiba blank lalu mati,overheating
+Laptop shutdown sendiri tiba tiba ketika sedang main game karena sangat hangat sekali,overheating
+Laptop restart terus menerus tidak bisa masuk ke desktop,boot_problem
+Baterai laptop drop drastis dari seratus persen ke nol,battery_not_charging
+Laptop lemot karena disk usage selalu seratus persen,storage_problem
+SSD laptop tidak terdeteksi di file explorer,storage_problem
+SSD laptop tidak terdeteksi di file explorer,storage_problem
+Penyimpanan laptop penuh padahal file tidak terlalu banyak,storage_problem
+Layar berkedip saat brightness dinaikkan atau diturunkan,display_flickering
+Layar berkedip saat brightness dinaikkan atau diturunkan,display_flickering
+Laptop tidak bisa pairing dengan mouse bluetooth,bluetooth_problem
+Laptop hidup tapi layar tidak menampilkan apa apa,black_screen
+Kapasitas penyimpanan laptop cepat penuh tanpa sebab jelas,storage_problem
+Layar laptop hitam total padahal lampu power menyala,black_screen
+Keyboard laptop error setelah tidak sengaja terkena air,keyboard_problem
+Lampu keyboard menyala tapi tombol tidak berfungsi,keyboard_problem
+Layar berkedip saat brightness dinaikkan atau diturunkan,display_flickering
+Bluetooth sering putus sambung sendiri saat dipakai,bluetooth_problem
+"Laptop cuma bisa internet pakai kabel LAN, wifi tidak berfungsi",wifi_problem
+Performa laptop menurun drastis dari biasanya,slow_performance
+SSD laptop tidak terdeteksi di file explorer,storage_problem
+Laptop tidak menemukan jaringan wifi apapun,wifi_problem
+Laptop tidak bisa pairing dengan mouse bluetooth,bluetooth_problem
+Beberapa huruf di keyboard hilang atau kotor sehingga tidak terbaca,keyboard_problem
+Performa laptop menurun drastis dari biasanya,slow_performance
+Warna layar berubah ubah dan berkedip secara acak,display_flickering
+Keyboard laptop error setelah tidak sengaja terkena air,keyboard_problem
+Penyimpanan laptop penuh padahal file tidak terlalu banyak,storage_problem
+Koneksi wifi sering putus nyambung sendiri,wifi_problem
+Laptop nge lag parah saat streaming atau menonton video,slow_performance
+Koneksi wifi sering putus nyambung sendiri,wifi_problem
+"Suhu laptop terasa sangat panas sekali, sampai bagian keyboard ikut panas",overheating
+Windows stuck di logo saat booting terus menerus,boot_problem
+SSD laptop tidak terdeteksi di file explorer,storage_problem
+Bluetooth laptop tidak bisa dinyalakan dari settings,bluetooth_problem
+Charger laptop panas dan baterai tidak kunjung penuh,battery_not_charging
+Laptop mati sendiri tiba tiba ketika sedang main game karena panas berlebihan,overheating
+Windows stuck di logo saat booting terus menerus,boot_problem
+Membuka file besar membuat laptop jadi sangat lambat,slow_performance
+Task manager menunjukkan CPU selalu penuh seratus persen,slow_performance
+Layar laptop hitam total padahal lampu power menyala,black_screen
+Laptop terasa sangat panas terutama di bagian bawah dan kipas sangat berisik,overheating
+Laptop lemot terus walaupun sudah restart berkali kali,slow_performance
+Laptop shutdown sendiri tiba tiba ketika sedang main game karena panas sekali,overheating
+Layar kadang gelap kadang terang sendiri secara tiba tiba,display_flickering
+Wifi adapter tidak terdeteksi setelah update windows,wifi_problem
+Bluetooth hilang dari device manager setelah update,bluetooth_problem
+Driver wifi tidak terbaca di device manager,wifi_problem
+Tombol keyboard terasa macet dan susah ditekan,keyboard_problem
+Bluetooth aktif tapi tidak mendeteksi perangkat lain,bluetooth_problem
+Baterai laptop drop drastis dari seratus persen ke nol,battery_not_charging
+Laptop tidak bisa konek ke wifi padahal sinyal full,wifi_problem
+Laptop saya panas sekali dan tiba tiba mati setelah dipakai 1 jam,overheating
+Persentase baterai turun terus meskipun sedang di charge,battery_not_charging
+Setelah 1 jam laptop langsung restart karena kepanasan,overheating
+Baterai laptop drop drastis dari seratus persen ke nol,battery_not_charging
+Beberapa huruf di keyboard hilang atau kotor sehingga tidak terbaca,keyboard_problem
+Layar tiba tiba blank hitam saat sedang dipakai,black_screen
+Laptop hanya menampilkan blue screen setiap kali dinyalakan,boot_problem
+Bluetooth laptop tidak bisa dinyalakan dari settings,bluetooth_problem
+Booting normal tapi begitu masuk windows layar langsung hitam,black_screen
+Persentase baterai turun terus meskipun sedang di charge,battery_not_charging
+Baterai laptop bocor cepat habis dalam waktu singkat,battery_not_charging
+Laptop lemot karena disk usage selalu seratus persen,storage_problem
+"Laptop cuma bisa internet pakai kabel LAN, wifi tidak berfungsi",wifi_problem
+Task manager menunjukkan CPU selalu penuh seratus persen,slow_performance
+Persentase baterai turun terus meskipun sedang di charge,battery_not_charging
+Laptop lemot parah padahal cuma buka browser,slow_performance
+Booting normal tapi begitu masuk windows layar langsung hitam,black_screen
+Tampilan layar bergetar dan tidak stabil terus menerus,display_flickering
+Wifi laptop saya tidak muncul sama sekali di daftar jaringan,wifi_problem
+Bluetooth aktif tapi tidak mendeteksi perangkat lain,bluetooth_problem
+Keyboard laptop error setelah tidak sengaja terkena air,keyboard_problem
+Driver bluetooth error terus setiap kali dinyalakan,bluetooth_problem
+Layar laptop berkedip kedip terus menerus,display_flickering
+Wifi laptop saya tidak muncul sama sekali di daftar jaringan,wifi_problem
+SSD laptop tidak terdeteksi di file explorer,storage_problem
+Laptop restart terus menerus tidak bisa masuk ke desktop,boot_problem
+Booting laptop lama sekali sampai lima menit lebih,slow_performance
+Warna layar berubah ubah dan berkedip secara acak,display_flickering
+Setelah sekitar 30 menit laptop langsung restart karena kepanasan,overheating
+Keyboard laptop tidak merespon sama sekali saat diketik,keyboard_problem
+Laptop nyala tapi tidak ada tampilan sama sekali di layar,black_screen
+Bagian belakang laptop panas berlebihan dan tiba tiba blank lalu mati,overheating
+Laptop terasa sangat panas terutama di bagian bawah dan kipas bunyi kencang sekali,overheating
+Laptop menampilkan pesan disk space hampir habis terus,storage_problem
+Penyimpanan laptop penuh padahal file tidak terlalu banyak,storage_problem
+File di laptop sering corrupt atau tidak bisa dibuka,storage_problem
+Setiap dinyalakan laptop langsung masuk automatic repair terus,boot_problem
+Baterai laptop drop drastis dari seratus persen ke nol,battery_not_charging
+Lampu keyboard menyala tapi tombol tidak berfungsi,keyboard_problem
+Muncul garis horizontal yang berkedip di layar laptop,display_flickering
+Layar laptop berkedip kedip terus menerus,display_flickering
+Bluetooth mouse terputus setiap beberapa menit,bluetooth_problem
+Tampilan layar bergaris garis dan flicker saat dipakai,display_flickering
+File di laptop sering corrupt atau tidak bisa dibuka,storage_problem
+Bagian belakang laptop panas berlebihan dan tiba tiba blank lalu mati,overheating
+Partisi penyimpanan hilang setelah laptop mati mendadak,storage_problem
+Laptop lemot parah padahal cuma buka browser,slow_performance
+Booting laptop selalu gagal dan otomatis restart sendiri,boot_problem
+Performa laptop menurun drastis dari biasanya,slow_performance
+Bluetooth laptop tidak bisa dinyalakan dari settings,bluetooth_problem
+Laptop restart terus menerus tidak bisa masuk ke desktop,boot_problem
+Keyboard laptop error setelah tidak sengaja terkena air,keyboard_problem
+Laptop terasa sangat panas terutama di bagian bawah dan kipas bunyi kencang sekali,overheating
+Tidak ada opsi bluetooth di pengaturan laptop,bluetooth_problem
+Laptop tidak menemukan jaringan wifi apapun,wifi_problem
+Muncul flicker warna pelangi di sudut layar laptop,display_flickering
+Lampu keyboard menyala tapi tombol tidak berfungsi,keyboard_problem
+Kalau dipakai lama laptop jadi panas sekali dan performa turun drastis,overheating
+Laptop tidak bisa pairing dengan mouse bluetooth,bluetooth_problem
+Wifi laptop saya tidak muncul sama sekali di daftar jaringan,wifi_problem
+Setelah update windows layar jadi hitam terus,black_screen
+Wifi terhubung tapi internet tidak bisa dipakai sama sekali,wifi_problem
+Laptop tidak bisa pairing dengan mouse bluetooth,bluetooth_problem
+Koneksi wifi sering putus nyambung sendiri,wifi_problem
+Tombol angka di keyboard laptop tidak berfungsi seluruhnya,keyboard_problem
+Headset bluetooth tidak terdeteksi oleh laptop,bluetooth_problem
+Persentase baterai turun terus meskipun sedang di charge,battery_not_charging
+Muncul flicker warna pelangi di sudut layar laptop,display_flickering
+Laptop lemot parah padahal cuma buka browser,slow_performance
+Laptop mentok di halaman BIOS tidak bisa lanjut boot,boot_problem
+Charger laptop panas dan baterai tidak kunjung penuh,battery_not_charging
+Lampu keyboard menyala tapi tombol tidak berfungsi,keyboard_problem
+Laptop mentok di halaman BIOS tidak bisa lanjut boot,boot_problem
+Hardisk laptop mengeluarkan bunyi aneh dan akses file lambat,storage_problem
+Laptop tidak bisa booting masuk windows sama sekali,boot_problem
+Setiap connect wifi selalu muncul limited access,wifi_problem
+Baterai laptop bocor cepat habis dalam waktu singkat,battery_not_charging
+Muncul flicker warna pelangi di sudut layar laptop,display_flickering
+Laptop mentok di halaman BIOS tidak bisa lanjut boot,boot_problem
+Laptop mentok di halaman BIOS tidak bisa lanjut boot,boot_problem
+Bluetooth hilang dari device manager setelah update,bluetooth_problem
+Laptop tidak menemukan jaringan wifi apapun,wifi_problem
+Setiap dinyalakan laptop langsung masuk automatic repair terus,boot_problem
+Laptop tidak bisa konek ke wifi padahal sinyal full,wifi_problem
+Driver wifi tidak terbaca di device manager,wifi_problem
+Driver bluetooth error terus setiap kali dinyalakan,bluetooth_problem
+Lampu keyboard menyala tapi tombol tidak berfungsi,keyboard_problem
+Hardisk laptop berbunyi klik klik lalu sangat lambat,storage_problem
+"Laptop menyala, kipas jalan, tapi layar gelap total",black_screen
+Baterai laptop drop drastis dari seratus persen ke nol,battery_not_charging
+Layar laptop hitam total padahal lampu power menyala,black_screen
+Keyboard laptop tidak merespon sama sekali saat diketik,keyboard_problem
+Layar flicker parah ketika membuka aplikasi berat,display_flickering
+Laptop restart terus menerus tidak bisa masuk ke desktop,boot_problem
+Booting normal tapi begitu masuk windows layar langsung hitam,black_screen
+Bluetooth laptop tidak bisa dinyalakan dari settings,bluetooth_problem
+Tampilan layar bergaris garis dan flicker saat dipakai,display_flickering
+Layar berkedip terutama saat baterai dipakai tanpa charger,display_flickering
+Layar berkedip terutama saat baterai dipakai tanpa charger,display_flickering
+Laptop nyala tapi tidak ada tampilan sama sekali di layar,black_screen
+Layar flicker parah ketika membuka aplikasi berat,display_flickering
+Booting laptop lama sekali sampai lima menit lebih,slow_performance
+Laptop lemot karena disk usage selalu seratus persen,storage_problem
+Charger laptop panas dan baterai tidak kunjung penuh,battery_not_charging
+Laptop saya sangat lambat ketika membuka aplikasi,slow_performance
+Layar laptop hitam total padahal lampu power menyala,black_screen
+Laptop tidak menemukan jaringan wifi apapun,wifi_problem
+Headset bluetooth tidak terdeteksi oleh laptop,bluetooth_problem
+"Laptop saya overheat terus, kipas berputar kencang tapi tetap panas",overheating
+"Laptop mati sendiri pas lagi render video, badannya panas sekali sekali",overheating
+Laptop restart terus menerus tidak bisa masuk ke desktop,boot_problem
+Lampu keyboard menyala tapi tombol tidak berfungsi,keyboard_problem
+Tampilan layar bergetar dan tidak stabil terus menerus,display_flickering
+Muncul pesan operating system not found saat booting,boot_problem
+Booting laptop lama sekali sampai lima menit lebih,slow_performance
+Warna layar berubah ubah dan berkedip secara acak,display_flickering
+Task manager menunjukkan CPU selalu penuh seratus persen,slow_performance
+Baterai laptop tidak mau mengisi walaupun sudah dicolok charger,battery_not_charging
+Keyboard laptop error setelah tidak sengaja terkena air,keyboard_problem
+Laptop menunjukkan not charging padahal charger terpasang,battery_not_charging
+Hardisk laptop mengeluarkan bunyi aneh dan akses file lambat,storage_problem
+Laptop nyala tapi tidak ada tampilan sama sekali di layar,black_screen
+Laptop stuck di layar loading windows berjam jam,boot_problem
+Laptop menampilkan pesan disk space hampir habis terus,storage_problem
+Kalau dipakai lama laptop jadi sangat panas dan performa turun drastis,overheating
+"Icon wifi hilang dari taskbar, tidak bisa connect internet",wifi_problem
+Tampilan layar bergaris garis dan flicker saat dipakai,display_flickering
+Setelah sekitar 30 menit laptop langsung restart karena kepanasan,overheating
+Beberapa tombol keyboard laptop tidak berfungsi sama sekali,keyboard_problem
+Bluetooth laptop tidak bisa dinyalakan dari settings,bluetooth_problem
+Laptop saya sangat lambat ketika membuka aplikasi,slow_performance
+Tombol keyboard terasa macet dan susah ditekan,keyboard_problem
+Driver bluetooth error terus setiap kali dinyalakan,bluetooth_problem
+SSD laptop tidak terdeteksi di file explorer,storage_problem
+Tidak ada opsi bluetooth di pengaturan laptop,bluetooth_problem
+Muncul pesan operating system not found saat booting,boot_problem
+Laptop hidup tapi layar tidak menampilkan apa apa,black_screen
+Wifi adapter tidak terdeteksi setelah update windows,wifi_problem
+Muncul flicker warna pelangi di sudut layar laptop,display_flickering
+"Icon wifi hilang dari taskbar, tidak bisa connect internet",wifi_problem
+Bluetooth aktif tapi tidak mendeteksi perangkat lain,bluetooth_problem
+Laptop hanya bisa menyala kalau charger terus tercolok,battery_not_charging
+Beberapa tombol keyboard laptop tidak berfungsi sama sekali,keyboard_problem
+Laptop saya sangat panas dan mati mendadak setelah dipakai beberapa menit,overheating
+Tidak ada opsi bluetooth di pengaturan laptop,bluetooth_problem
+"Laptop menyala, kipas jalan, tapi layar gelap total",black_screen
+Membuka file besar membuat laptop jadi sangat lambat,slow_performance
+Laptop sering hang dan tidak merespon saat digunakan,slow_performance
+Muncul flicker warna pelangi di sudut layar laptop,display_flickering
+Layar laptop mati sendiri padahal laptop masih menyala,black_screen
+Penyimpanan laptop penuh padahal file tidak terlalu banyak,storage_problem
+Bluetooth sering putus sambung sendiri saat dipakai,bluetooth_problem
+"Laptop menyala, kipas jalan, tapi layar gelap total",black_screen
+Charger terpasang tapi indikator baterai tidak bertambah,battery_not_charging
+Bluetooth mouse terputus setiap beberapa menit,bluetooth_problem
+"Suhu laptop terasa sangat panas sekali, sampai bagian keyboard ikut panas",overheating
+Beberapa huruf di keyboard hilang atau kotor sehingga tidak terbaca,keyboard_problem
+Tidak ada opsi bluetooth di pengaturan laptop,bluetooth_problem
+Baterai laptop cepat habis padahal baru saja di cas,battery_not_charging
+Headset bluetooth tidak terdeteksi oleh laptop,bluetooth_problem
+Headset bluetooth tidak terdeteksi oleh laptop,bluetooth_problem
+Laptop lag terus saat multitasking beberapa aplikasi,slow_performance
+Booting laptop selalu gagal dan otomatis restart sendiri,boot_problem
+Baterai laptop cepat habis padahal baru saja di cas,battery_not_charging
+Laptop lemot karena disk usage selalu seratus persen,storage_problem
+Layar laptop hitam total padahal lampu power menyala,black_screen
+Tampilan layar bergetar dan tidak stabil terus menerus,display_flickering
+Booting laptop selalu gagal dan otomatis restart sendiri,boot_problem
+Layar berkedip saat brightness dinaikkan atau diturunkan,display_flickering
+Persentase baterai turun terus meskipun sedang di charge,battery_not_charging
+Booting laptop selalu gagal dan otomatis restart sendiri,boot_problem
+Laptop lemot terus walaupun sudah restart berkali kali,slow_performance
+Tombol angka di keyboard laptop tidak berfungsi seluruhnya,keyboard_problem
+Laptop lag terus saat multitasking beberapa aplikasi,slow_performance
+Muncul flicker warna pelangi di sudut layar laptop,display_flickering
+Laptop hanya menampilkan blue screen setiap kali dinyalakan,boot_problem
+Driver wifi tidak terbaca di device manager,wifi_problem
+Booting normal tapi begitu masuk windows layar langsung hitam,black_screen
+Driver wifi tidak terbaca di device manager,wifi_problem
+Laptop hanya menampilkan blue screen setiap kali dinyalakan,boot_problem
+Laptop nyala tapi tidak ada tampilan sama sekali di layar,black_screen
+Laptop hanya bisa menyala kalau charger terus tercolok,battery_not_charging
+Baterai laptop bocor cepat habis dalam waktu singkat,battery_not_charging
+Booting laptop lama sekali sampai lima menit lebih,slow_performance
+Layar laptop mati sendiri padahal laptop masih menyala,black_screen
+Laptop sering muncul pesan disk error saat startup,storage_problem
+Layar laptop hitam total padahal lampu power menyala,black_screen
+"Laptop saya overheat terus, kipas berputar kencang tapi tetap panas",overheating
+Muncul flicker warna pelangi di sudut layar laptop,display_flickering
+Laptop menunjukkan not charging padahal charger terpasang,battery_not_charging
+Layar eksternal normal tapi layar laptop tetap hitam,black_screen
+Laptop menunjukkan not charging padahal charger terpasang,battery_not_charging
+Keyboard laptop tidak merespon sama sekali saat diketik,keyboard_problem
+Laptop gagal terus saat pairing dengan speaker bluetooth,bluetooth_problem
+Booting laptop lama sekali sampai lima menit lebih,slow_performance
+Tampilan layar bergaris garis dan flicker saat dipakai,display_flickering
+Kalau dipakai lama laptop jadi sangat hangat sekali dan performa turun drastis,overheating
+Layar blank hitam disertai bunyi beep saat dinyalakan,black_screen
+Laptop lemot terus walaupun sudah restart berkali kali,slow_performance
+Keyboard laptop error setelah tidak sengaja terkena air,keyboard_problem
+Laptop lemot parah padahal cuma buka browser,slow_performance
+Kalau dipakai lama laptop jadi sangat hangat sekali dan performa turun drastis,overheating
+Headset bluetooth tidak terdeteksi oleh laptop,bluetooth_problem
+Task manager menunjukkan CPU selalu penuh seratus persen,slow_performance
+Laptop tidak bisa konek ke wifi padahal sinyal full,wifi_problem
+Layar berkedip saat brightness dinaikkan atau diturunkan,display_flickering
+Laptop tidak menemukan jaringan wifi apapun,wifi_problem
+Laptop hidup tapi layar tidak menampilkan apa apa,black_screen
+Windows tidak bisa boot setelah mati listrik tiba tiba,boot_problem
+Laptop mentok di halaman BIOS tidak bisa lanjut boot,boot_problem
+Task manager menunjukkan CPU selalu penuh seratus persen,slow_performance
+Laptop mati sendiri tiba tiba ketika sedang main game karena panas sekali,overheating
+Setiap connect wifi selalu muncul limited access,wifi_problem
+Laptop nge lag parah saat streaming atau menonton video,slow_performance
+Laptop gagal terus saat pairing dengan speaker bluetooth,bluetooth_problem
+SSD laptop tidak terdeteksi di file explorer,storage_problem
+Laptop gagal terus saat pairing dengan speaker bluetooth,bluetooth_problem
+Muncul pesan operating system not found saat booting,boot_problem
+Warna layar berubah ubah dan berkedip secara acak,display_flickering
+Baterai laptop drop drastis dari seratus persen ke nol,battery_not_charging
+Setelah update windows layar jadi hitam terus,black_screen
+Koneksi wifi sering putus nyambung sendiri,wifi_problem
+Laptop sering muncul pesan disk error saat startup,storage_problem
+Bluetooth mouse terputus setiap beberapa menit,bluetooth_problem
+Layar flicker parah ketika membuka aplikasi berat,display_flickering
+Headset bluetooth tidak terdeteksi oleh laptop,bluetooth_problem
+Keyboard laptop mengetik huruf yang salah terus menerus,keyboard_problem
+Layar eksternal normal tapi layar laptop tetap hitam,black_screen
+Layar berkedip saat brightness dinaikkan atau diturunkan,display_flickering
+Setelah beberapa menit laptop langsung restart karena kepanasan,overheating
+Laptop tiba tiba mati tiba tiba ketika sedang main game karena panas berlebihan,overheating
+"Icon wifi hilang dari taskbar, tidak bisa connect internet",wifi_problem
+Layar tiba tiba blank hitam saat sedang dipakai,black_screen
+Task manager menunjukkan CPU selalu penuh seratus persen,slow_performance
+Laptop terasa sangat panas terutama di bagian bawah dan kipas berputar sangat kencang,overheating
+Setelah dua jam laptop langsung restart karena kepanasan,overheating
+Laptop menampilkan pesan disk space hampir habis terus,storage_problem
+Driver wifi tidak terbaca di device manager,wifi_problem
+Layar berkedip terutama saat baterai dipakai tanpa charger,display_flickering
+Baterai laptop bocor cepat habis dalam waktu singkat,battery_not_charging
+Layar flicker parah ketika membuka aplikasi berat,display_flickering
+Tombol spasi pada keyboard laptop tidak bisa ditekan,keyboard_problem
+Laptop saya sangat lambat ketika membuka aplikasi,slow_performance
+Laptop sering hang dan tidak merespon saat digunakan,slow_performance
+Laptop menunjukkan not charging padahal charger terpasang,battery_not_charging
+"Laptop menyala, kipas jalan, tapi layar gelap total",black_screen
+Laptop lag terus saat multitasking beberapa aplikasi,slow_performance
+Laptop hanya menampilkan blue screen setiap kali dinyalakan,boot_problem
+Warna layar berubah ubah dan berkedip secara acak,display_flickering
+"Laptop saya overheat terus, kipas berputar kencang tapi tetap panas",overheating
+Booting normal tapi begitu masuk windows layar langsung hitam,black_screen
+Laptop hanya bisa menyala kalau charger terus tercolok,battery_not_charging
+Headset bluetooth tidak terdeteksi oleh laptop,bluetooth_problem
+Laptop hanya bisa menyala kalau charger terus tercolok,battery_not_charging
+Koneksi wifi sering putus nyambung sendiri,wifi_problem
+Tombol keyboard terasa macet dan susah ditekan,keyboard_problem
+Windows tidak bisa boot setelah mati listrik tiba tiba,boot_problem
+Laptop mati sendiri tiba tiba ketika sedang main game karena panas berlebihan,overheating
+Keyboard sering double input padahal hanya ditekan sekali,keyboard_problem
+Bluetooth sering putus sambung sendiri saat dipakai,bluetooth_problem
+Baterai laptop cepat habis padahal baru saja di cas,battery_not_charging
+Laptop tidak bisa pairing dengan mouse bluetooth,bluetooth_problem
+Laptop mentok di halaman BIOS tidak bisa lanjut boot,boot_problem
+Laptop saya sangat lambat ketika membuka aplikasi,slow_performance
+Keyboard sering double input padahal hanya ditekan sekali,keyboard_problem
+"Suhu laptop terasa sangat hangat sekali sekali, sampai bagian keyboard ikut panas",overheating
+SSD laptop tidak terdeteksi di file explorer,storage_problem
+Charger laptop panas dan baterai tidak kunjung penuh,battery_not_charging
+Muncul garis horizontal yang berkedip di layar laptop,display_flickering
+Layar eksternal normal tapi layar laptop tetap hitam,black_screen
+Hardisk laptop mengeluarkan bunyi aneh dan akses file lambat,storage_problem
+Setelah update windows layar jadi hitam terus,black_screen
+Keyboard laptop error setelah tidak sengaja terkena air,keyboard_problem
+Beberapa huruf di keyboard hilang atau kotor sehingga tidak terbaca,keyboard_problem
+Charger laptop panas dan baterai tidak kunjung penuh,battery_not_charging
+Laptop hanya menampilkan blue screen setiap kali dinyalakan,boot_problem
+Laptop sering hang dan tidak merespon saat digunakan,slow_performance
+Laptop tidak bisa booting masuk windows sama sekali,boot_problem
+"Laptop saya overheat terus, kipas berputar kencang tapi tetap panas",overheating
+Partisi penyimpanan hilang setelah laptop mati mendadak,storage_problem
+Laptop restart terus menerus tidak bisa masuk ke desktop,boot_problem
+Tombol keyboard terasa macet dan susah ditekan,keyboard_problem
+"Suhu laptop terasa panas sekali sekali, sampai bagian keyboard ikut panas",overheating
+Muncul pesan operating system not found saat booting,boot_problem
+Baterai laptop drop drastis dari seratus persen ke nol,battery_not_charging
+"Laptop menyala, kipas jalan, tapi layar gelap total",black_screen
+Koneksi wifi sering putus nyambung sendiri,wifi_problem
+Persentase baterai turun terus meskipun sedang di charge,battery_not_charging
