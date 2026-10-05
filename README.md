@@ -187,3 +187,57 @@ MVP scope: complaint input → ML prediction → confidence/category/priority �
 recommendation → estimated time → saved history. Beyond MVP: guided
 troubleshooting, technician mode, dashboard, feedback loop, service records —
 all included in this build.
+
+
+# LaptopCare AI
+
+An AI-assisted web system designed to help users diagnose laptop hardware and performance issues quickly and accurately. The application features problem analysis, a comprehensive knowledge base, diagnosis history tracking, and a technician dashboard to monitor common system issues and repair statistics.
+
+---
+
+# ⚡ Key Features & Visual Documentation
+
+## 1. Home / Problem Diagnosis Page
+The main interface where users can describe their laptop issues in natural language[cite: 6]. The AI analyzes the input to identify the problem, display confidence levels, categories, priority statuses, and estimated troubleshooting steps[cite: 5].
+
+<img src="backend/Screenshot (1341).png" width="100%" alt="Home Page">
+
+**Features shown:**
+* **Interactive Problem Input:** A text area allowing users to type symptoms freely, such as "battery not charging"[cite: 6].
+* **Detailed Diagnosis Result:** Displays problem categories, priority indicators (e.g., Medium, High), and estimated repair times[cite: 5].
+* **Step-by-Step Troubleshooting:** Provides clear, actionable steps for users to resolve minor issues independently[cite: 5].
+* **Feedback Mechanism:** Allows users to confirm whether the AI diagnosis was correct using interactive Yes/No buttons[cite: 5].
+
+---
+
+## 2. Diagnosis History
+The history page records all previous problem analyses performed by the user, providing a chronological overview of past diagnostics along with their respective priority levels and confidence metrics[cite: 4].
+
+<img src="backend/Screenshot (1343).png" width="100%" alt="Diagnosis History">
+
+**Features shown:**
+* **Chronological Logs:** Lists past diagnostic records including timestamps and issue types like Battery Not Charging, Black Screen, and Storage Problems[cite: 4].
+* **Status Indicators:** Highlights priority levels (High, Medium) and match percentages for each diagnosis session[cite: 4].
+
+---
+
+## 3. Knowledge Base
+A centralized library containing common laptop troubleshooting guides categorized by issue types and severity levels[cite: 3].
+
+<img src="backend/Screenshot (1344).png" width="100%" alt="Knowledge Base">
+
+**Features shown:**
+* **Issue Categories:** Quick navigation menu listing various hardware topics such as Overheating, Wi-Fi Connectivity, Bluetooth, Black Screen, and Battery Issues[cite: 3].
+* **Severity Badges:** Clear priority markers (HIGH, MEDIUM, LOW) to help users identify critical problems instantly[cite: 3].
+* **Structured Guides:** Detailed step-by-step instructions for troubleshooting specific hardware faults[cite: 3].
+
+---
+
+## 4. Technician Dashboard
+An administrative overview designed for technicians to monitor overall system statistics, diagnostic volumes, and the distribution of common laptop hardware issues[cite: 7].
+
+<img src="backend/Screenshot (1345).png" width="100%" alt="Technician Dashboard">
+
+**Features shown:**
+* **System Metrics:** Summary cards tracking total diagnoses, resolved cases, high-priority issues, and overall AI accuracy percentages[cite: 7].
+* **Common Problems Breakdown:** Visual progress bars displaying the frequency percentages of hardware failures such as Storage Problems, Overheating, Slow Performance, and Boot Failures[cite: 7].
