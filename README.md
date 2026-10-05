@@ -197,47 +197,54 @@ An AI-assisted web system designed to help users diagnose laptop hardware and pe
 
 # ⚡ Key Features & Visual Documentation
 
-## 1. Home / Problem Diagnosis Page
-The main interface where users can describe their laptop issues in natural language[cite: 6]. The AI analyzes the input to identify the problem, display confidence levels, categories, priority statuses, and estimated troubleshooting steps[cite: 5].
+## 1. Home / Problem Diagnosis Page (1)
+Halaman awal tempat pengguna memulai diagnosis dengan memasukkan pertanyaan atau gejala pada laptop mereka.
 
-<img src="backend/Screenshot (1341).png" width="100%" alt="Home Page">
-
-**Features shown:**
-* **Interactive Problem Input:** A text area allowing users to type symptoms freely, such as "battery not charging"[cite: 6].
-* **Detailed Diagnosis Result:** Displays problem categories, priority indicators (e.g., Medium, High), and estimated repair times[cite: 5].
-* **Step-by-Step Troubleshooting:** Provides clear, actionable steps for users to resolve minor issues independently[cite: 5].
-* **Feedback Mechanism:** Allows users to confirm whether the AI diagnosis was correct using interactive Yes/No buttons[cite: 5].
+<img src="backend/Screenshot (1341).png" width="100%" alt="Home Page 1">
 
 ---
 
-## 2. Diagnosis History
-The history page records all previous problem analyses performed by the user, providing a chronological overview of past diagnostics along with their respective priority levels and confidence metrics[cite: 4].
+## 2. Home / Problem Diagnosis Page (2)
+Setelah memasukkan deskripsi masalah (misalnya "battery not charging"), AI akan menganalisis dan menampilkan hasil diagnosis mendetail: tingkat keyakinan, kategori masalah, prioritas, dan langkah-langkah pemecahan masalah (*troubleshooting steps*).
+
+<img src="backend/Screenshot (1342).png" width="100%" alt="Home Page 2">
+
+**Features shown:**
+* **Problem Analysis Results:** Displays categories, confidence scores (25%), priority statuses (MEDIUM), and estimated troubleshooting times.
+* **Diagnostic Explanations:** Provides the AI's reasoning for the diagnosis.
+* **Possible Causes & Safety Notices:** Lists potential hardware faults and crucial safety warnings.
+* **Interactive Troubleshooting Steps:** Offers actionable steps for users to resolve issues (e.g., checking the charger and port).
+* **User Feedback:** Allows users to confirm if the diagnosis was accurate.
+
+---
+
+## 3. Diagnosis History
+Halaman ini mencatat seluruh riwayat diagnosis yang pernah dilakukan pengguna, memberikan gambaran kronologis masalah yang pernah dialami beserta status prioritas dan tanggalnya.
 
 <img src="backend/Screenshot (1343).png" width="100%" alt="Diagnosis History">
 
 **Features shown:**
-* **Chronological Logs:** Lists past diagnostic records including timestamps and issue types like Battery Not Charging, Black Screen, and Storage Problems[cite: 4].
-* **Status Indicators:** Highlights priority levels (High, Medium) and match percentages for each diagnosis session[cite: 4].
+* **Chronological Records:** Lists past diagnostics with timestamps (5 Okt 2026) and issue types.
+* **Status Badges:** Highlights severity levels (HIGH, MEDIUM) and confidence percentages for each session.
 
 ---
 
-## 3. Knowledge Base
-A centralized library containing common laptop troubleshooting guides categorized by issue types and severity levels[cite: 3].
+## 4. Knowledge Base
+Pusat pengetahuan (*knowledge base*) yang terstruktur, menampilkan berbagai kategori masalah perangkat keras laptop beserta tingkat urgensinya untuk memudahkan pengguna menemukan solusi yang relevan.
 
 <img src="backend/Screenshot (1344).png" width="100%" alt="Knowledge Base">
 
 **Features shown:**
-* **Issue Categories:** Quick navigation menu listing various hardware topics such as Overheating, Wi-Fi Connectivity, Bluetooth, Black Screen, and Battery Issues[cite: 3].
-* **Severity Badges:** Clear priority markers (HIGH, MEDIUM, LOW) to help users identify critical problems instantly[cite: 3].
-* **Structured Guides:** Detailed step-by-step instructions for troubleshooting specific hardware faults[cite: 3].
+* **Category Navigation:** Organizes issues by type (Overheating, WiFi, Bluetooth, etc.).
+* **Priority Indicators:** Clearly marks issues as HIGH or LOW urgency.
 
 ---
 
-## 4. Technician Dashboard
-An administrative overview designed for technicians to monitor overall system statistics, diagnostic volumes, and the distribution of common laptop hardware issues[cite: 7].
+## 5. Technician Dashboard
+Dashboard administratif yang dirancang untuk para teknisi, menyediakan ringkasan statistik sistem secara keseluruhan, termasuk total diagnosis, jumlah kasus terselesaikan, proporsi masalah prioritas tinggi, dan tingkat akurasi AI.
 
 <img src="backend/Screenshot (1345).png" width="100%" alt="Technician Dashboard">
 
 **Features shown:**
-* **System Metrics:** Summary cards tracking total diagnoses, resolved cases, high-priority issues, and overall AI accuracy percentages[cite: 7].
-* **Common Problems Breakdown:** Visual progress bars displaying the frequency percentages of hardware failures such as Storage Problems, Overheating, Slow Performance, and Boot Failures[cite: 7].
+* **System Metrics:** Summary cards for Total Diagnoses, Resolved Cases, High Priority Issues, and AI Accuracy.
+* **Common Problems Visualization:** Bar charts illustrating the frequency and distribution of prevalent hardware failures (Storage, Overheating, Slow Performance, etc.).
